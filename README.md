@@ -1,2 +1,2 @@
 # Yuan
-用于搜索并安装Windows应用软件。
+在Windows CMD命令行下用于快速搜索安装Windows应用软件的工具。
