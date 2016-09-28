@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 import requests, json
-from bs4 import BeautifulSoup
 def baidu_search_app(keyword):
     """Search software from BaiDu Softwares WebPage.
     Get the download link by the software name.
